@@ -21,15 +21,6 @@ PulseEngine is a developer platform designed for extracting, processing, and mon
 - 🕹️ **Bonus Round Easter Egg**: Konami Code (`↑ ↑ ↓ ↓ ← → ← → B A`) or header `>_ CLI` button triggers a retro Matrix developer terminal modal with secret commands!
 
 ---
-
-## 📄 Challenge Deliverables
-
-- **GitHub Repository**: [AvinashKaja/PulseEngine](https://github.com/AvinashKaja/PulseEngine)
-- **Design Decisions Document**: [DECISIONS.md](./DECISIONS.md)
-- **Acdyon Submission Form**: [https://forms.gle/qeqpHhvYGWA3ftY69](https://forms.gle/qeqpHhvYGWA3ftY69)
-
----
-
 ## 🚀 Getting Started
 
 ```bash
