@@ -62,11 +62,6 @@ export const Navbar: React.FC<NavbarProps> = ({ theme, toggleTheme, onOpenTermin
              onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-secondary)'}>
             SDK & Code
           </a>
-          <a href="#decisions" style={{ color: 'var(--text-secondary)', textDecoration: 'none', fontSize: '0.9rem', fontWeight: 500, transition: 'color 0.2s' }}
-             onMouseEnter={(e) => e.currentTarget.style.color = 'var(--accent-orange)'}
-             onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-secondary)'}>
-            DECISIONS.md
-          </a>
         </nav>
 
         {/* Action Controls */}
